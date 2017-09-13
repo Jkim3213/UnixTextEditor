@@ -1,0 +1,38 @@
+# Project 2
+
+Shaochen Xu (811-699-155) Jacob Kim (811-752-105)
+
+## Instructions
+
+To clean my code, type:
+
+```
+$ make clean
+```
+
+To compile my code, type:
+
+```
+$ make
+```
+
+To run my code, type:
+
+```
+$ ./1730ed
+
+$ ./1730ed filename
+```
+
+For Functionality:
+
+```
+Keypad supported, no numberpad
+Arrow Keys to scroll
+Horizontal Scrolling rather than text/wrap
+```
+
+References
+
+Cheuk's Blog: NCURSES Terminal Text Editor Tutorial
+	
